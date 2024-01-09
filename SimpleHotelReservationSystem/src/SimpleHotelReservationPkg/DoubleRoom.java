@@ -2,7 +2,7 @@ package SimpleHotelReservationPkg;
 /**
  * 
  * @author Mohamed Ramadan
- * github.com/mohamed-ramdan
+ * github.com/mormdan
  *
  * DoubleRoom Class child of Abstract Room class.
  */
